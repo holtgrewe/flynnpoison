@@ -1,1 +1,2 @@
-https://github.com/bihealth/heroku-buildpack-python-ldap.git#e2e97b7
+https://github.com/ddollar/heroku-buildpack-apt.git#7954acd
+https://github.com/heroku/heroku-buildpack-python.git#19cd447
